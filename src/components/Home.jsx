@@ -159,7 +159,7 @@ const TextContent = styled.div`
 `
 const RightContent = styled.div`
     position: sticky;
-    top: 7%;
+    top: 20%;
     margin-left: 7%;
     width: 55vw;
     height: 400px;
