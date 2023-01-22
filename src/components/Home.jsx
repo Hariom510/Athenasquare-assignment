@@ -113,11 +113,13 @@ function Home() {
 export default Home
 
 const Container = styled.div`
+    margin-top: 5%;
     display: flex;
     justify-content: space-between;
     padding: 4%; 
     @media(max-width:1050px){
       flex-direction: column;
+      margin-top: 10%;
   } 
 `
 const LeftContent = styled.div`

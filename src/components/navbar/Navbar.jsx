@@ -32,6 +32,11 @@ export default Navbar
 
 const NavContent = styled.div`
     background: rgb(0,0,0);
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 100;
     display: flex;
     justify-content: space-between;
     padding: 1%;
@@ -60,4 +65,9 @@ const LeftContent = styled.div`
 `
 const RightContent = styled.div`
     width: auto;
+    .rightbtn{
+        @media(max-width: 800px){
+        display: none;
+        }
+    }
 `
