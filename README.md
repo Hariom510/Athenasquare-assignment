@@ -1,3 +1,11 @@
+## Live link:-   [View](https://athena-assignment.netlify.app/)
+
+### Some screenshots are:-
+
+![Screenshot (281)](https://user-images.githubusercontent.com/85151795/213908065-38330de1-5701-4dde-ac30-33153d3c9626.png)
+
+![Screenshot (282)](https://user-images.githubusercontent.com/85151795/213908079-a5e703c5-b4a0-4e13-a340-3f8f7ed3389d.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
